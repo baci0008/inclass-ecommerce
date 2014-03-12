@@ -1,4 +1,9 @@
 ---
+category: dinosaurs
+name: Pteranodon
+time_period: Jurassic
+diet: Omnivore
+image: air-dinos/pteranodon.jpg
 ---
 
 *Pteranodon* is an amazing flying prehistoric creature!
